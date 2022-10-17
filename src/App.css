@@ -36,11 +36,11 @@
   color: white;
 }
 .img-wrapper img {
-  width: 100px;
+  width: 80px;
   margin-top: -10px;
 }
 .cart-wrapper {
-  height: 130px;
+  height: 110px;
   width: 500px;
   border: 1px solid #ccc;
   margin-left: 10%;
